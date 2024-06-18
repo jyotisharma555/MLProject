@@ -1,2 +1,2 @@
 # MLProject
-machine learning faetures in react native app.
+machine learning features in react native app.
